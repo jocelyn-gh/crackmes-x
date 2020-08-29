@@ -1,4 +1,4 @@
-# Contains programs ment to be broken into demstrating a type of secutry flaw. 
+# Contains programs meant to be broken into demonstrating a type of security flaw.
 # CrackMe01
 Viewing and reading memory
 # CrackMe02
