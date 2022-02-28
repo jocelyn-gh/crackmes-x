@@ -4,6 +4,13 @@
 #include <stdlib.h> 
 #define MAX_LEN 8
 
+// flags to let the compiler let us use gets for demonstration purposes //
+#pragma GCC diagnostic push
+#pragma GCC diagnostic warning "-Wimplicit-function-declaration"
+#pragma GCC diagnostic error "-Wimplicit-function-declaration"
+#pragma GCC diagnostic ignored "-Wimplicit-function-declaration"
+/////////////////////////////////////////////////////////////////////
+
 int main(int argc, char** argv)
 {
     volatile int harmlessflag;

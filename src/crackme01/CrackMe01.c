@@ -4,6 +4,13 @@
 
 #define MAX_LEN 80
 
+// flags to let the compiler let us use gets for demonstration purposes //
+#pragma GCC diagnostic push
+#pragma GCC diagnostic warning "-Wimplicit-function-declaration"
+#pragma GCC diagnostic error "-Wimplicit-function-declaration"
+#pragma GCC diagnostic ignored "-Wimplicit-function-declaration"
+/////////////////////////////////////////////////////////////////////
+
 int main() {
 
 
