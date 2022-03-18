@@ -4,7 +4,7 @@ Viewing and reading memory
 # CrackMe02 [Linux](https://github.com/jocelyn-gh/crackmes-x/releases/download/v1.0.1/CrackMe02) [Windows](https://github.com/jocelyn-gh/crackmes-x/releases/download/v1.0.1/CrackMe02.exe)
 Buffer overrun
  
-# Software Reverse Engineering report [WEB](https://github.com/jocelyn-gh/crackmes-x/blob/master/project-report/Jocelyn%20Dye%20-%20Senior%20Project%20Report.pdf) [PDF](https://github.com/jocelyn-gh/crackmes-x/raw/master/project-report/Jocelyn%20Dye%20-%20Senior%20Project%20Report.pdf)
+# Software Reverse Engineering report [WEB](https://github.com/jocelyn-gh/crackmes-x/blob/master/project-report/Jocelyn%20-%20Slim%20-%20Senior%20Project%20Report.pdf) [PDF](https://github.com/jocelyn-gh/crackmes-x/raw/master/project-report/Jocelyn%20-%20Slim%20-%20Senior%20Project%20Report.pdf)
 
 The purpose of this paper is to try and clearly explain what reverse engineering is and how software programs can be exploited, and their relationship. It will be using visual aids of screenshots of various programs being used to reverse engineer and explain them. Programs I have developed will be used to show case various types of exploits.
 
